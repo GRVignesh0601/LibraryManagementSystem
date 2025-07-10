@@ -15,8 +15,7 @@ Technologies Used:
     Basic Encapsulation: Private fields with public getters/setters.
     Inheritance: Basic example with `FictionBook` and `NonFictionBook`.
     Arrays/ArrayLists: Used to store collections of `Book` and `Member` objects.
-  ---
-**Files Created:**
+ **Files Created:**
    * Book.java
    * FictionBook.java
    * NonFictionBook.java
