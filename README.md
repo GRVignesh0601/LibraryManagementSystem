@@ -1,6 +1,7 @@
-##LIBRARY MANAGEMENT SYSTEM
+**LIBRARY MANAGEMENT SYSTEM**
 ---
 Here I have created a simple console-based Library Management System.This code focuses on demonstrating the core OOP concepts you mentioned: Arrays/ArrayLists, Strings, OOP, Encapsulation, and Inheritance.
+---
 **Key Features:**
   * **Book Management:** Add, remove, search, display all books.
   * **Member Management:** Add, remove, search, display all members.
@@ -8,11 +9,13 @@ Here I have created a simple console-based Library Management System.This code f
   * **Basic Encapsulation:** Private fields with public getters/setters.
   * **Inheritance:** (Basic example with `FictionBook` and `NonFictionBook`)
   * **Arrays/ArrayLists:** Used to store collections of `Book` and `Member` objects.
+---
 Technologies Used:
   **JAVA**: The core programming Language.
     Basic Encapsulation: Private fields with public getters/setters.
     Inheritance: Basic example with `FictionBook` and `NonFictionBook`.
     Arrays/ArrayLists: Used to store collections of `Book` and `Member` objects.
+  ---
 **Files Created:**
    * Book.java
    * FictionBook.java
