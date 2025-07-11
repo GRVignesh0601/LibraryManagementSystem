@@ -1,5 +1,5 @@
 **LIBRARY MANAGEMENT SYSTEM**
----
+
 Here I have created a simple console-based Library Management System.This code focuses on demonstrating the core OOP concepts you mentioned: Arrays/ArrayLists, Strings, OOP, Encapsulation, and Inheritance.
 ---
 **Key Features:**
