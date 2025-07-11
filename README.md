@@ -11,10 +11,13 @@ Here I have created a simple console-based Library Management System.This code f
   * **Arrays/ArrayLists:** Used to store collections of `Book` and `Member` objects.
 ---
 Technologies Used:
+
   **JAVA**: The core programming Language.
-    Basic Encapsulation: Private fields with public getters/setters.
-    Inheritance: Basic example with `FictionBook` and `NonFictionBook`.
-    Arrays/ArrayLists: Used to store collections of `Book` and `Member` objects.
+
+  * **Basic Encapsulation:** Private fields with public getters/setters.
+  * **Inheritance:** (Basic example with `FictionBook` and `NonFictionBook`)
+  * **Arrays/ArrayLists:** Used to store collections of `Book` and `Member` objects.
+
  **Files Created:**
    * Book.java
    * FictionBook.java
@@ -22,6 +25,7 @@ Technologies Used:
    * Library.java
    * Member.java
    * LibraryManagementSystem.java (Main Class)
+
 **How to Compile and Run:**
 
 1.  **Save:** Save each code block into its respective `.java` file (e.g., `Book.java`, `Member.java`, etc.). Make sure all files are in the same directory.
